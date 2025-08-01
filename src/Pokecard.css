@@ -1,0 +1,49 @@
+.App{
+    padding-bottom: 150px;
+}
+
+.poke_dex{
+    border-radius: 10px;
+    width: 324px;
+    height: 167.15px;
+    border-radius: 24px;
+    padding: 24px;
+}
+
+.poke_nome{
+    font-family: DM Sans;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: -4%;
+    text-transform: capitalize;
+}
+
+.carta{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.poke_img{
+    width: 120px;
+    height: 119.15px;
+}
+
+.header_tipos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 2px;
+}
+
+.tipo{
+    width: 60px;
+    height: 20px;
+    border-radius: 50px;
+    padding: 4px 8px 4px 8px;
+    color: black;
+    text-transform: capitalize;
+    margin: 3px;
+}

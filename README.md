@@ -1,0 +1,1 @@
+Esse projeto foi parte da curso de Frontend com React da tomorrow UFBA. Nesse projeto aprendemos a fazer integrações com API e nesse caso treinamos com a PokeApi.
